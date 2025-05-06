@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="217"/>
+  <unicode hex="0237"/>
+  <note>
+dotlessj
+</note>
+  <outline>
+    <contour>
+      <point x="-38" y="-32" type="line"/>
+      <point x="-23" y="-56"/>
+      <point x="-4" y="-68"/>
+      <point x="18" y="-68" type="curve" smooth="yes"/>
+      <point x="39" y="-68"/>
+      <point x="52" y="-47"/>
+      <point x="52" y="-18" type="curve" smooth="yes"/>
+      <point x="52" y="360" type="line"/>
+      <point x="164" y="360" type="line"/>
+      <point x="164" y="-4" type="line" smooth="yes"/>
+      <point x="164" y="-91"/>
+      <point x="118" y="-134"/>
+      <point x="26" y="-134" type="curve" smooth="yes"/>
+      <point x="-5" y="-134"/>
+      <point x="-38" y="-127"/>
+      <point x="-71" y="-112" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+12 1 2 1 1 74 0 1 1 19 75 0 2 2 0 92 0 0 0 21 0 76 35 18 33 3 6 23
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

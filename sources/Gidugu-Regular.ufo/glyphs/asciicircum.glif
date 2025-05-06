@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="365"/>
+  <unicode hex="005E"/>
+  <note>
+asciicircum
+</note>
+  <outline>
+    <contour>
+      <point x="183" y="334" type="line"/>
+      <point x="121" y="199" type="line"/>
+      <point x="41" y="199" type="line"/>
+      <point x="138" y="390" type="line"/>
+      <point x="228" y="390" type="line"/>
+      <point x="325" y="199" type="line"/>
+      <point x="247" y="199" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 22 values pushed */
+6 1 0 1 1 74 0 1 0 1 114 2 1 0 0 105 17 17 16 3 6 23
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

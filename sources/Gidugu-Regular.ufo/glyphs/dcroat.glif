@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="413"/>
+  <unicode hex="0111"/>
+  <note>
+dcroat
+</note>
+  <outline>
+    <contour>
+      <point x="361" y="381" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="261" y="34" type="line"/>
+      <point x="232" y="5"/>
+      <point x="200" y="-9"/>
+      <point x="165" y="-9" type="curve" smooth="yes"/>
+      <point x="75" y="-9"/>
+      <point x="30" y="51"/>
+      <point x="30" y="172" type="curve" smooth="yes"/>
+      <point x="30" y="303"/>
+      <point x="80" y="369"/>
+      <point x="181" y="369" type="curve" smooth="yes"/>
+      <point x="206" y="369"/>
+      <point x="228" y="364"/>
+      <point x="249" y="353" type="curve"/>
+      <point x="249" y="381" type="line"/>
+      <point x="166" y="381" type="line"/>
+      <point x="166" y="450" type="line"/>
+      <point x="249" y="450" type="line"/>
+      <point x="249" y="471" type="line"/>
+      <point x="361" y="485" type="line"/>
+      <point x="361" y="450" type="line"/>
+      <point x="371" y="450" type="line"/>
+      <point x="371" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="46" type="curve" smooth="yes"/>
+      <point x="218" y="46"/>
+      <point x="235" y="54"/>
+      <point x="249" y="71" type="curve"/>
+      <point x="249" y="298" type="line"/>
+      <point x="238" y="303"/>
+      <point x="227" y="306"/>
+      <point x="215" y="306" type="curve" smooth="yes"/>
+      <point x="166" y="306"/>
+      <point x="141" y="263"/>
+      <point x="141" y="176" type="curve" smooth="yes"/>
+      <point x="141" y="89"/>
+      <point x="160" y="46"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 79 values pushed */
+9 1 8 3 27 26 2 7 8 17 1 4 7 3 74 4 3 2 0 72 9 6 2 2 2 0 89 1 1 0 0 16 75 0 8 8 3 91 0 3 3 27 75 10 1 7 7 4 91 5 1 4 4 25 4 76 22 21 0 0 25 23 21 28 22 28 0 20 0 20 18 34 34 17 19 17 11 6 26
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

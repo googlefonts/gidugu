@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="354"/>
+  <unicode hex="002A"/>
+  <note>
+asterisk
+</note>
+  <outline>
+    <contour>
+      <point x="193" y="364" type="line"/>
+      <point x="160" y="364" type="line"/>
+      <point x="126" y="424" type="line"/>
+      <point x="126" y="491" type="line"/>
+      <point x="227" y="491" type="line"/>
+      <point x="227" y="424" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="358" type="line"/>
+      <point x="144" y="329" type="line"/>
+      <point x="78" y="321" type="line"/>
+      <point x="14" y="342" type="line"/>
+      <point x="41" y="423" type="line"/>
+      <point x="105" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="328" type="line"/>
+      <point x="200" y="358" type="line"/>
+      <point x="247" y="402" type="line"/>
+      <point x="311" y="423" type="line"/>
+      <point x="339" y="342" type="line"/>
+      <point x="275" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="320" type="line"/>
+      <point x="171" y="302" type="line"/>
+      <point x="163" y="237" type="line"/>
+      <point x="122" y="179" type="line"/>
+      <point x="47" y="236" type="line"/>
+      <point x="86" y="293" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="302" type="line"/>
+      <point x="207" y="320" type="line"/>
+      <point x="266" y="293" type="line"/>
+      <point x="307" y="236" type="line"/>
+      <point x="230" y="179" type="line"/>
+      <point x="190" y="237" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 25 values pushed */
+14 7 3 0 4 1 0 1 74 29 28 26 25 23 22 20 19 16 13 11 9 8 13 1 71
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+20
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 89 0 0 0 18 1 76
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 1 1 0 85 0 0 0 1 89 0 1 0 1 77
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+18 17 2 6 22
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

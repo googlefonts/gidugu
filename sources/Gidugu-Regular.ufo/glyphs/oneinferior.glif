@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneinferior" format="2">
+  <advance width="281"/>
+  <unicode hex="2081"/>
+  <note>
+oneinferior
+</note>
+  <outline>
+    <contour>
+      <point x="235" y="-117" type="line"/>
+      <point x="47" y="-117" type="line"/>
+      <point x="47" y="-86" type="line"/>
+      <point x="103" y="-86" type="line"/>
+      <point x="103" y="78" type="line"/>
+      <point x="46" y="77" type="line"/>
+      <point x="46" y="106" type="line"/>
+      <point x="79" y="108"/>
+      <point x="114" y="118"/>
+      <point x="151" y="136" type="curve"/>
+      <point x="185" y="136" type="line"/>
+      <point x="185" y="-86" type="line"/>
+      <point x="235" y="-86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+20
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+0 1 2 1 114 0 2 0 3 0 2 3 97 4 1 0 0 5 90 0 5 5 21 5 76
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 31 values pushed */
+0 1 2 1 114 0 2 0 3 0 2 3 97 4 1 0 5 5 0 85 4 1 0 0 5 90 0 5 0 5 78
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 9 values pushed */
+17 17 17 17 17 16 6 6 26
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

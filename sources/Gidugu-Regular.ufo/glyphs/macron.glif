@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="223"/>
+  <unicode hex="00AF"/>
+  <note>
+macron
+</note>
+  <outline>
+    <contour>
+      <point x="210" y="411" type="line"/>
+      <point x="14" y="411" type="line"/>
+      <point x="14" y="487" type="line"/>
+      <point x="210" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+20
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 89 0 0 0 18 1 76
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 1 1 0 85 0 0 0 1 89 0 1 0 1 77
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+17 16 2 6 22
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

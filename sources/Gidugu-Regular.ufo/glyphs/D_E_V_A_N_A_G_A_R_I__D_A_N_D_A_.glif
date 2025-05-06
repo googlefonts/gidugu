@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DEVANAGARI_DANDA" format="2">
+  <advance width="243"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="186" y="-37" type="line"/>
+      <point x="186" y="456" type="line"/>
+      <point x="125" y="456" type="line"/>
+      <point x="125" y="-37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

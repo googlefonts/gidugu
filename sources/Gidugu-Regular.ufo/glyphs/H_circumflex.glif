@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="463"/>
+  <unicode hex="0124"/>
+  <note>
+Hcircumflex
+</note>
+  <outline>
+    <contour>
+      <point x="132" y="516" type="line"/>
+      <point x="206" y="635" type="line"/>
+      <point x="257" y="635" type="line"/>
+      <point x="329" y="516" type="line"/>
+      <point x="300" y="491" type="line"/>
+      <point x="230" y="552" type="line"/>
+      <point x="163" y="491" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="296" y="203" type="line"/>
+      <point x="165" y="203" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="52" y="460" type="line"/>
+      <point x="165" y="460" type="line"/>
+      <point x="165" y="257" type="line"/>
+      <point x="296" y="257" type="line"/>
+      <point x="296" y="460" type="line"/>
+      <point x="410" y="460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 45 values pushed */
+6 3 2 1 4 1 0 1 74 0 0 1 0 114 0 2 0 5 4 2 5 98 3 1 1 1 16 75 6 1 4 4 17 4 76 17 17 17 17 17 18 20 7 6 27
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

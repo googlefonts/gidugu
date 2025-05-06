@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0C7C" format="2">
+  <advance width="655"/>
+  <unicode hex="0C7C"/>
+  <outline>
+    <contour>
+      <point x="639" y="270" type="line"/>
+      <point x="639" y="341" type="line"/>
+      <point x="37" y="341" type="line"/>
+      <point x="37" y="270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

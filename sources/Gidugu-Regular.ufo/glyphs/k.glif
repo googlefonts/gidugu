@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="382"/>
+  <unicode hex="006B"/>
+  <note>
+k
+</note>
+  <outline>
+    <contour>
+      <point x="169" y="144" type="line"/>
+      <point x="165" y="139" type="line"/>
+      <point x="164" y="139" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="52" y="471" type="line"/>
+      <point x="164" y="485" type="line"/>
+      <point x="164" y="204" type="line"/>
+      <point x="307" y="360" type="line"/>
+      <point x="370" y="360" type="line"/>
+      <point x="237" y="216" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 31 values pushed */
+10 5 2 3 0 1 1 74 7 6 2 1 72 0 1 1 19 75 2 1 0 0 17 0 76 20 18 16 3 6 23
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

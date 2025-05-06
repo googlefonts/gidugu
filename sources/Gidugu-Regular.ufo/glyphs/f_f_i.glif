@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <advance width="674"/>
+  <unicode hex="FB03"/>
+  <note>
+f_f_i
+</note>
+  <outline>
+    <contour>
+      <point x="621" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="509" y="303" type="line"/>
+      <point x="397" y="303" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="303" type="line"/>
+      <point x="168" y="303" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="57" y="303" type="line"/>
+      <point x="3" y="303" type="line"/>
+      <point x="3" y="360" type="line"/>
+      <point x="57" y="360" type="line"/>
+      <point x="59" y="450"/>
+      <point x="115" y="495"/>
+      <point x="225" y="495" type="curve" smooth="yes"/>
+      <point x="264" y="495"/>
+      <point x="302" y="486"/>
+      <point x="340" y="468" type="curve"/>
+      <point x="368" y="486"/>
+      <point x="407" y="495"/>
+      <point x="456" y="495" type="curve" smooth="yes"/>
+      <point x="505" y="495"/>
+      <point x="551" y="482"/>
+      <point x="593" y="455" type="curve"/>
+      <point x="554" y="380" type="line"/>
+      <point x="527" y="412"/>
+      <point x="494" y="428"/>
+      <point x="454" y="428" type="curve" smooth="yes"/>
+      <point x="417" y="428"/>
+      <point x="397" y="399"/>
+      <point x="397" y="364" type="curve" smooth="yes"/>
+      <point x="397" y="360" type="line"/>
+      <point x="621" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="360" type="line"/>
+      <point x="286" y="377"/>
+      <point x="289" y="394"/>
+      <point x="294" y="409" type="curve"/>
+      <point x="256" y="434"/>
+      <point x="202" y="435"/>
+      <point x="183" y="409" type="curve" smooth="yes"/>
+      <point x="173" y="396"/>
+      <point x="168" y="381"/>
+      <point x="168" y="364" type="curve" smooth="yes"/>
+      <point x="168" y="360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 12 values pushed */
+11 8 2 1 2 34 7 2 0 1 2 74
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+20
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 35 values pushed */
+11 1 1 1 2 91 3 1 2 2 18 75 9 7 2 5 5 0 89 13 12 4 3 0 0 19 75 10 8 2 6 6 17 6 76
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 33 values pushed */
+3 1 2 11 1 1 0 2 1 99 9 7 2 5 5 0 89 13 12 4 3 0 0 19 75 10 8 2 6 6 17 6 76
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 24 values pushed */
+29 29 29 36 29 36 33 32 28 27 26 25 17 17 17 17 17 34 19 35 16 14 6 29
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

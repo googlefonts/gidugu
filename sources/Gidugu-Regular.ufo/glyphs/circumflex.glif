@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="239"/>
+  <unicode hex="02C6"/>
+  <note>
+circumflex
+</note>
+  <outline>
+    <contour>
+      <point x="146" y="536" type="line"/>
+      <point x="218" y="416" type="line"/>
+      <point x="188" y="392" type="line"/>
+      <point x="119" y="452" type="line"/>
+      <point x="51" y="392" type="line"/>
+      <point x="21" y="416" type="line"/>
+      <point x="95" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 22 values pushed */
+5 4 3 2 1 5 0 71 1 1 0 0 105 0 0 0 6 0 6 2 6 20
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

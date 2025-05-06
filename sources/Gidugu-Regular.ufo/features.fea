@@ -1,0 +1,1052 @@
+@class1 = [ DDaOttu DDhaOttu DaOttu DhaOttu GNaOttu GaOttu GhaOttu GyaOttu HaOttu JaOttu JhaOttu KhaOttu KshaOttu LaOttu Multiply NNaOttu NgaOttu NyaOttu RRaOttu RaOttuMiddle1 SHNaOttu SSaOttu SsaTtaOttu TLaOttu TRaOttu TTHaOttu TTaOttu ThaOttu onehalf ];
+
+@class2 = [ BaOttu BhaOttu CaOttu ChaOttu DDaOttu DDhaOttu DaOttu DhaOttu DoubleDanda GaOttu GhaOttu HaOttu JaOttu JhaOttu Kaottu KhaOttu KshaOttu LLaOttu LaOttu MaOttu NNaOttu NaOttu NgaOttu NyaOttu PaOttu PhaOttu RRaOttu SSaOttu SaOttu ShaOttu SsaTtaOttu SsaTthaOttu TTHaOttu TTaOttu ThaOttu VaOttu YaOttu ch745 ch746 ch747 ch748 ch749 ch750 ch751 ch752 ch753 ch754 ch755 ch756 ch757 ch758 ch759 ch766 ch767 ch768 ch769 ch770 ];
+
+@markAttachmentSet1 = [  ];
+
+@class3 = [ Gha GhaAA GhaAU GhaE GhaEE GhaHalanth GhaI GhaII GhaOO Ma MaAA MaAU MaE MaEE MaHalanth MaI MaII ];
+
+@class4 = [ GhaO Jha JhaAA JhaAU JhaE JhaEE JhaHalanth JhaI JhaII JhaOO MaO MaOO Ya YaAA YaAU YaE YaEE YaHalanth YaI YaII YaOO ];
+
+@class5 = [ BaU BaUU BhaU BhaUU CaNuktaU CaNuktaUU CaU CaUU ChaU ChaUU DDaU DDaUU DDhaU DDhaUU DaU DaUU DhaU DhaUU GaU GaUU KaU KaUU KhaU KhaUU KshaU KshaUU LLaU LLaUU LaU LaUU NNaU NNaUU NaU NaUU PaU PaUU PhaU PhaUU RRaU RRaUU RaU RaUU SSaU SSaUU SaU SaUU ShaU ShaUU TTaU TTaUU TThaU TThaUU TaU TaUU ThaU ThaUU VaU VaUU ];
+
+@class6 = [ Ba BaE BaEE BaHalanth BaI BaII Bha BhaE BhaEE BhaHalanth BhaI BhaII Ca CaE CaEE CaHalanth CaI CaII Cha ChaE ChaEE ChaHalanth ChaI ChaII Da DaE DaEE DaHalanth DaI DaII Dha DhaE DhaEE DhaHalanth DhaI DhaII Ga GaE GaEE GaHalanth GaI GaII Ja JaE JaEE JaHalanth JaI JaII Ka KaE KaEE KaHalanth KaI KaII LLa LLaE LLaEE LLaHalanth LLaI LLaII La LaE LaEE LaHalanth LaI LaII NGaE NGaEE NGaHalanth NGaII Na NaE NaEE NaHalanth NaI NaII NgaI Pa PaE PaEE PaHalanth PaI PaII Pha PhaE PhaEE PhaHalanth PhaI PhaII Ra RaE RaEE RaHalanth RaI RaII Sa SaE SaEE SaHalanth SaI SaII Sha ShaE ShaEE ShaHalanth ShaI ShaII TTha TThaE TThaEE TThaHalanth TThaI TThaII Ta TaE TaEE TaHalanth TaI TaII Tha ThaE ThaEE ThaHalanth ThaI ThaII Va VaE VaEE VaHalanth VaI VaII uni0C19 ];
+
+@class7 = [ DDa DDaE DDaEE DDaHalanth DDaI DDaII DDha DDhaE DDhaEE DDhaHalanth DDhaI DDhaII JaU KaU Kha KhaE KhaEE KhaHalanth KhaI KhaII LLaU NNaE NNaEE NNaI NNaII RRa RRaE RRaEE RRaHalanth RRaI RRaII ShaAA ShaU TTaE TTaEE TTaI TTaII uni0C23 ];
+
+@class8 = [ BaU BhaU CaU ChaU DDaU DDhaU DaAA DaAU DaO DaOO DaU DhaAA DhaAU DhaO DhaOO DhaU GaAA GaAU GaO GaOO GaU Gha GhaE GhaEE GhaHalanth GhaI GhaII KaAA KaAU KaO KaOO KhaU KshaU LLaAA LLaAU LLaO LLaOO LaAU LaO LaOO LaU Ma MaE MaEE MaHalanth MaI MaII NGaU NNaHalanth NaAA NaAU NaO NaOO NaU Nya NyaE NyaEE NyaI NyaII RaAA RaO RaOO RaU SSaU SaU ShaAU ShaO ShaOO TTaHalanth TThaAA TThaO TThaOO TThaU TaU ThaAA ThaAU ThaO ThaOO ThaU VaAA VaAU VaO VaOO ];
+
+@class9 = [ BaAA BaAU BaO BaOO BhaAA BhaAU BhaO BhaOO CaAA CaAU CaO CaOO ChaAA ChaAU ChaO ChaOO DDaO DDaOO DDhaO DDhaOO JaAA JaO JaOO KhaO KhaOO LaAA NGaAA NGaAU NGaO NGaOO PaAU PaO PaOO PhaAU PhaO PhaOO RRaAA RRaU RaAU SSaAA SaAA SaAU SaO SaOO TTaU TThaAU TaAA TaAU TaO TaOO ];
+
+@class10 = [ DDaAA DDaAU DDhaAA DDhaAU GhaO GhaU Ha HaAA HaE HaEE HaHalanth HaI HaII JaAU JaUU JhaU KhaAA KhaAU MaO MaU NNaAA NNaU NyaHalanth PaAA PhaAA RRaAU RRaO RRaOO SSaUU TTaAA TTaAU Ya YaE YaEE YaHalanth YaI ];
+
+@class11 = [ BaUU BhaUU CaUU ChaUU DaUU DhaUU GaUU GhaAA GhaAU GhaOO GhaUU JhaAA JhaAU JhaOO KaUU KhaUU KshaUU LLaUU LaUU MaAA MaAU MaOO MaUU NGaUU NaUU RaUU SaUU ShaUU TTaO TTaOO TThaUU TaUU ThaUU YaAA YaII YaOO ];
+
+@class12 = [ Jha JhaE JhaEE JhaHalanth JhaI JhaII KshaAA KshaAU KshaO KshaOO SSaAU SSaO SSaOO ];
+
+@class13 = [ HaU HaUU JhaO NNaAU NNaO NNaOO NyaAA NyaU NyaUU YaO YaU ];
+
+@class14 = [ DDaUU DDhaUU HaAU HaO HaOO JhaUU NNaUU NyaAU NyaO NyaOO RRaUU TTaUU YaAU YaUU ];
+
+@class15 = [ Ksha KshaE KshaEE KshaHalanth KshaI KshaII PaU PhaU SSa SSaE SSaEE SSaHalanth SSaI SSaII VaU ];
+
+@class16 = [ BaOttu BhaOttu CaOttu ChaOttu Kaottu LLaOttu MaOttu NaOttu PaOttu PhaOttu SaOttu ShaOttu VaOttu YaOttu ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem tel2 dflt;
+
+# Prefix: Prefix
+lookup SingleSubstitution27 {
+    lookupflag 0;
+    ;
+    # Original source: 26 
+    sub tvam by LowItvam;
+} SingleSubstitution27;
+
+lookup SingleSubstitution28 {
+    lookupflag 0;
+    ;
+    # Original source: 27 
+    sub RaOttuMiddle1 by RaOttuRight;
+    sub RaOttuWide1 by RaOttuRight;
+    sub RaOttuWide2 by RaOttuRight;
+} SingleSubstitution28;
+
+lookup SingleSubstitution29 {
+    lookupflag 0;
+    ;
+    # Original source: 28 
+    sub LowItvam by tvam;
+} SingleSubstitution29;
+
+lookup SingleSubstitution33 {
+    lookupflag 0;
+    ;
+    # Original source: 32 
+    sub RaOttuMiddle1 by RaOttuWide1;
+} SingleSubstitution33;
+lookup SingleSubstitution34 {
+    lookupflag 0;
+    ;
+    # Original source: 33 
+    sub RaOttuMiddle1 by RaOttuWide2;
+    sub RaOttuRight by RaOttuWide2;
+    sub RaOttuWide1 by RaOttuWide2;
+} SingleSubstitution34;
+
+lookup SingleSubstitution35 {
+    lookupflag 0;
+    ;
+    # Original source: 34 
+    sub RaOttuMiddle1 by RaOttuRight;
+    sub RaOttuWide1 by RaOttuRight;
+    sub RaOttuWide2 by RaOttuRight;
+} SingleSubstitution35;
+
+lookup PairPositioning1 {
+    lookupflag 0;
+    ;
+} PairPositioning1;
+lookup PairPositioning2 {
+    lookupflag 0;
+    ;
+    # Original source: 1 
+    pos Ta VaOttu 71;
+    pos Kaottu RMatra 28;
+    pos PaOttu RMatra 76;
+    pos VaOttu VaEE -5;
+} PairPositioning2;
+lookup PairPositioning3 {
+    lookupflag 0;
+    ;
+    # Original source: 2 
+    pos BaE <NULL> tvam <-830 20 0 0>;
+    pos BhaE <NULL> tvam <-830 20 0 0>;
+    pos CaE <NULL> tvam <-830 20 0 0>;
+    pos ChaE <NULL> tvam <-830 20 0 0>;
+    pos DDaE <NULL> tvam <-830 20 0 0>;
+    pos DDhaE <NULL> tvam <-830 20 0 0>;
+    pos DaE <NULL> tvam <-830 20 0 0>;
+    pos DhaE <NULL> tvam <-830 20 0 0>;
+    pos GaE <NULL> tvam <-830 20 0 0>;
+    pos GhaE <NULL> tvam <-1070 -20 0 0>;
+    pos HaE <NULL> tvam <-1287 0 0 0>;
+    pos JaE <NULL> tvam <-830 20 0 0>;
+    pos JhaE <NULL> tvam <-1287 0 0 0>;
+    pos KaE <NULL> tvam <-830 20 0 0>;
+    pos KhaE <NULL> tvam <-830 20 0 0>;
+    pos KshaE <NULL> tvam <-830 20 0 0>;
+    pos LLaE <NULL> tvam <-830 20 0 0>;
+    pos LaE <NULL> tvam <-830 20 0 0>;
+    pos MaE <NULL> tvam <-1070 -20 0 0>;
+    pos NGaE <NULL> tvam <-830 20 0 0>;
+    pos NNaE <NULL> tvam <-830 20 0 0>;
+    pos NaE <NULL> tvam <-830 20 0 0>;
+    pos NyaE <NULL> tvam <-1070 -20 0 0>;
+    pos PaE <NULL> tvam <-830 20 0 0>;
+    pos PhaE <NULL> tvam <-830 20 0 0>;
+    pos RRaE <NULL> tvam <-830 20 0 0>;
+    pos RaE <NULL> tvam <-830 20 0 0>;
+    pos SSaE <NULL> tvam <-830 20 0 0>;
+    pos SaE <NULL> tvam <-830 20 0 0>;
+    pos ShaE <NULL> tvam <-830 20 0 0>;
+    pos TTaE <NULL> tvam <-830 20 0 0>;
+    pos TThaE <NULL> tvam <-830 20 0 0>;
+    pos TaE <NULL> tvam <-830 20 0 0>;
+    pos ThaE <NULL> tvam <-830 20 0 0>;
+    pos VaE <NULL> tvam <-830 20 0 0>;
+    pos YaE <NULL> tvam <-1287 0 0 0>;
+} PairPositioning3;
+lookup SinglePositioning25 {
+    lookupflag 0;
+    ;
+    # Original source: 20 
+    pos TaOttu <-756 9 0 0>;
+} SinglePositioning25;
+lookup ChainedContextualGPOS6 {
+    lookupflag 0;
+    ;
+    # Original source: 4 
+    pos @class6 TaOttu' lookup SinglePositioning25;
+} ChainedContextualGPOS6;
+lookup SinglePositioning26 {
+    lookupflag 0;
+    ;
+    # Original source: 21 
+    pos TaOttu <-846 18 0 0>;
+} SinglePositioning26;
+lookup ChainedContextualGPOS7 {
+    lookupflag 0;
+    ;
+    # Original source: 5 
+    pos @class7 TaOttu' lookup SinglePositioning26;
+} ChainedContextualGPOS7;
+lookup SinglePositioning27 {
+    lookupflag 0;
+    ;
+    # Original source: 22 
+    pos TaOttu <-945 10 0 0>;
+} SinglePositioning27;
+lookup ChainedContextualGPOS8 {
+    lookupflag 0;
+    ;
+    # Original source: 6 
+    pos @class8 TaOttu' lookup SinglePositioning27;
+} ChainedContextualGPOS8;
+lookup SinglePositioning28 {
+    lookupflag 0;
+    ;
+    # Original source: 23 
+    pos TaOttu <-1008 0 0 0>;
+} SinglePositioning28;
+lookup ChainedContextualGPOS9 {
+    lookupflag 0;
+    ;
+    # Original source: 7 
+    pos @class9 TaOttu' lookup SinglePositioning28;
+} ChainedContextualGPOS9;
+lookup SinglePositioning29 {
+    lookupflag 0;
+    ;
+    # Original source: 24 
+    pos TaOttu <-1108 18 0 0>;
+} SinglePositioning29;
+lookup ChainedContextualGPOS10 {
+    lookupflag 0;
+    ;
+    # Original source: 8 
+    pos @class10 TaOttu' lookup SinglePositioning29;
+} ChainedContextualGPOS10;
+lookup SinglePositioning30 {
+    lookupflag 0;
+    ;
+    # Original source: 25 
+    pos TaOttu <-1323 25 0 0>;
+} SinglePositioning30;
+lookup ChainedContextualGPOS11 {
+    lookupflag 0;
+    ;
+    # Original source: 9 
+    pos @class11 TaOttu' lookup SinglePositioning30;
+} ChainedContextualGPOS11;
+lookup SinglePositioning31 {
+    lookupflag 0;
+    ;
+    # Original source: 26 
+    pos TaOttu <-942 -36 0 0>;
+} SinglePositioning31;
+lookup ChainedContextualGPOS12 {
+    lookupflag 0;
+    ;
+    # Original source: 10 
+    pos @class12 TaOttu' lookup SinglePositioning31;
+} ChainedContextualGPOS12;
+lookup SinglePositioning32 {
+    lookupflag 0;
+    ;
+    # Original source: 27 
+    pos TaOttu <-1287 27 0 0>;
+} SinglePositioning32;
+lookup ChainedContextualGPOS13 {
+    lookupflag 0;
+    ;
+    # Original source: 11 
+    pos @class13 TaOttu' lookup SinglePositioning32;
+} ChainedContextualGPOS13;
+lookup SinglePositioning33 {
+    lookupflag 0;
+    ;
+    # Original source: 28 
+    pos TaOttu <-1521 0 0 0>;
+} SinglePositioning33;
+lookup ChainedContextualGPOS14 {
+    lookupflag 0;
+    ;
+    # Original source: 12 
+    pos @class14 TaOttu' lookup SinglePositioning33;
+} ChainedContextualGPOS14;
+lookup SinglePositioning34 {
+    lookupflag 0;
+    ;
+    # Original source: 29 
+    pos TaOttu <-800 -65 0 0>;
+} SinglePositioning34;
+lookup ChainedContextualGPOS15 {
+    lookupflag 0;
+    ;
+    # Original source: 13 
+    pos @class15 TaOttu' lookup SinglePositioning34;
+} ChainedContextualGPOS15;
+lookup SinglePositioning35 {
+    lookupflag 0;
+    ;
+    # Original source: 30 
+    pos TaOttu <-1230 -63 0 0>;
+} SinglePositioning35;
+lookup ChainedContextualGPOS16 {
+    lookupflag 0;
+    ;
+    # Original source: 14 
+    pos [PaUU PhaUU VaUU] TaOttu' lookup SinglePositioning35;
+} ChainedContextualGPOS16;
+lookup PairPositioning36 {
+    lookupflag 0;
+    ;
+    # Original source: 31 
+    pos TaOttu <NULL> BaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> BhaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> CaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> ChaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> Kaottu <100 -50 9 0>;
+    pos TaOttu <NULL> LLaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> MaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> NaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> PaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> PhaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> SaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> ShaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> VaOttu <100 -50 9 0>;
+    pos TaOttu <NULL> YaOttu <100 -50 9 0>;
+    pos Titvam <NULL> BaOttu <100 -50 0 0>;
+    pos Titvam <NULL> BhaOttu <100 -50 0 0>;
+    pos Titvam <NULL> CaOttu <100 -50 0 0>;
+    pos Titvam <NULL> ChaOttu <100 -50 0 0>;
+    pos Titvam <NULL> Kaottu <100 -50 0 0>;
+    pos Titvam <NULL> LLaOttu <100 -50 0 0>;
+    pos Titvam <NULL> MaOttu <100 -50 0 0>;
+    pos Titvam <NULL> NaOttu <100 -50 0 0>;
+    pos Titvam <NULL> PaOttu <100 -50 0 0>;
+    pos Titvam <NULL> PhaOttu <100 -50 0 0>;
+    pos Titvam <NULL> SaOttu <100 -50 0 0>;
+    pos Titvam <NULL> ShaOttu <100 -50 0 0>;
+    pos Titvam <NULL> VaOttu <100 -50 0 0>;
+    pos Titvam <NULL> YaOttu <100 -50 0 0>;
+} PairPositioning36;
+lookup ChainedContextualGPOS17 {
+    lookupflag 0;
+    ;
+    # Original source: 15 
+    pos @class6 [TaOttu Titvam]' lookup PairPositioning36 @class16';
+} ChainedContextualGPOS17;
+lookup PairPositioning18 {
+    lookupflag 0;
+    ;
+    # Original source: 16 
+    pos BaE 18 Titvam <-774 -25 0 0>;
+    pos BhaE 18 Titvam <-774 -25 0 0>;
+    pos CaE 18 Titvam <-774 -25 0 0>;
+    pos ChaE 18 Titvam <-774 -25 0 0>;
+    pos DDaE 18 Titvam <-774 -25 0 0>;
+    pos DDhaE 18 Titvam <-774 -25 0 0>;
+    pos DaE 18 Titvam <-774 -25 0 0>;
+    pos DhaE 18 Titvam <-774 -25 0 0>;
+    pos GaE 18 Titvam <-774 -25 0 0>;
+    pos GhaE <NULL> Titvam <-936 0 0 0>;
+    pos HaE <NULL> Titvam <-1098 63 0 0>;
+    pos JaE 18 Titvam <-774 -25 0 0>;
+    pos JhaE 9 Titvam <-1305 27 -9 0>;
+    pos KaE 18 Titvam <-774 -25 0 0>;
+    pos KhaE 18 Titvam <-774 -25 0 0>;
+    pos KshaE 18 Titvam <-774 -25 0 0>;
+    pos LLaE 18 Titvam <-774 -25 0 0>;
+    pos LaE 18 Titvam <-774 -25 0 0>;
+    pos MaE <NULL> Titvam <-936 0 0 0>;
+    pos NGaE 18 Titvam <-774 -25 0 0>;
+    pos NNaE 18 Titvam <-774 -25 0 0>;
+    pos NaE 18 Titvam <-774 -25 0 0>;
+    pos NyaE <NULL> Titvam <-936 0 0 0>;
+    pos PaE 18 Titvam <-774 -25 0 0>;
+    pos PhaE 18 Titvam <-774 -25 0 0>;
+    pos RRaE 18 Titvam <-774 -25 0 0>;
+    pos RaE 18 Titvam <-774 -25 0 0>;
+    pos SSaE 18 Titvam <-774 -25 0 0>;
+    pos SaE 18 Titvam <-774 -25 0 0>;
+    pos ShaE 18 Titvam <-774 -25 0 0>;
+    pos TTaE 18 Titvam <-774 -25 0 0>;
+    pos TThaE 18 Titvam <-774 -25 0 0>;
+    pos TaE 18 Titvam <-774 -25 0 0>;
+    pos ThaE 18 Titvam <-774 -25 0 0>;
+    pos VaE 18 Titvam <-774 -25 0 0>;
+    pos YaE <NULL> Titvam <-1224 18 0 0>;
+} PairPositioning18;
+
+feature akhn {
+    sub Ka uni0C46 tvam Halanth SSa by ch773;
+    sub Ka UUMatra Halanth SSa by KshaUU;
+    sub Ka UMatra Halanth SSa by KshaU;
+    sub Ka Halanth Halanth SSa by KshaOttu;
+    sub Ka OOMatra Halanth SSa by KshaOO;
+    sub Ka OMatra Halanth SSa by KshaO;
+    sub Ka IIMatra Halanth SSa by KshaII;
+    sub Ka Imatra Halanth SSa by KshaI;
+    sub Ka Halanth Halanth SSa by KshaHalanth;
+    sub Ka EEMatra Halanth SSa by KshaEE;
+    sub Ka uni0C46 Halanth SSa by KshaE;
+    sub Ka AuMatra Halanth SSa by KshaAU;
+    sub Ka AAMatra Halanth SSa by KshaAA;
+    sub Ka Halanth SSa by Ksha;
+} akhn;
+
+feature nukt {
+sub Ca Nukta by CaNukta;
+sub Ja Nukta by JaNukta;
+} nukt;
+
+feature abvs {
+lookup LigatureSubstitution10 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 9 
+    sub Ka AAMatra by KaAA;
+    sub Kha AAMatra by KhaAA;
+    sub Ga AAMatra by GaAA;
+    sub Gha AAMatra by GhaAA;
+    sub uni0C19 AAMatra by NGaAA;
+    sub Ca Nukta AAMatra by CaNuktaAA;
+    sub Ca AAMatra by CaAA;
+    sub Cha AAMatra by ChaAA;
+    sub Ja Nukta AAMatra by JaNuktaAA;
+    sub Ja AAMatra by JaAA;
+    sub Jha AAMatra by JhaAA;
+    sub Nya AAMatra by NyaAA;
+    sub TTha AAMatra by TThaAA;
+    sub DDa AAMatra by DDaAA;
+    sub DDha AAMatra by DDhaAA;
+    sub uni0C23 AAMatra by NNaAA;
+    sub Ta AAMatra by TaAA;
+    sub Tha AAMatra by ThaAA;
+    sub Da AAMatra by DaAA;
+    sub Dha AAMatra by DhaAA;
+    sub Na AAMatra by NaAA;
+    sub Pa AAMatra by PaAA;
+    sub Pha AAMatra by PhaAA;
+    sub Ba AAMatra by BaAA;
+    sub Bha AAMatra by BhaAA;
+    sub Ma AAMatra by MaAA;
+    sub Ya AAMatra by YaAA;
+    sub Ra AAMatra by RaAA;
+    sub RRa AAMatra by RRaAA;
+    sub La AAMatra by LaAA;
+    sub LLa AAMatra by LLaAA;
+    sub Va AAMatra by VaAA;
+    sub Sha AAMatra by ShaAA;
+    sub SSa AAMatra by SSaAA;
+    sub Sa AAMatra by SaAA;
+    sub Ha AAMatra by HaAA;
+} LigatureSubstitution10;
+lookup LigatureSubstitution11 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 10 
+    sub Ka Imatra by KaI;
+    sub Kha Imatra by KhaI;
+    sub Ga Imatra by GaI;
+    sub Gha Imatra by GhaI;
+    sub uni0C19 Imatra by NgaI;
+    sub Ca Imatra by CaI;
+    sub Cha Imatra by ChaI;
+    sub Ja Imatra by JaI;
+    sub Jha Imatra by JhaI;
+    sub Nya Imatra by NyaI;
+    sub TTha Imatra by TThaI;
+    sub DDa Imatra by DDaI;
+    sub DDha Imatra by DDhaI;
+    sub uni0C23 Imatra by NNaI;
+    sub Ta Imatra by TaI;
+    sub Tha Imatra by ThaI;
+    sub Da Imatra by DaI;
+    sub Dha Imatra by DhaI;
+    sub Na Imatra by NaI;
+    sub Pa Imatra by PaI;
+    sub Pha Imatra by PhaI;
+    sub Ba Imatra by BaI;
+    sub Bha Imatra by BhaI;
+    sub Ma Imatra by MaI;
+    sub Ya Imatra by YaI;
+    sub Ra Imatra by RaI;
+    sub RRa Imatra by RRaI;
+    sub La Imatra by LaI;
+    sub LLa Imatra by LLaI;
+    sub Va Imatra by VaI;
+    sub Sha Imatra by ShaI;
+    sub SSa Imatra by SSaI;
+    sub Sa Imatra by SaI;
+    sub Ha Imatra by HaI;
+} LigatureSubstitution11;
+lookup LigatureSubstitution12 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 11 
+    sub Ka IIMatra by KaII;
+    sub Kha IIMatra by KhaII;
+    sub Ga IIMatra by GaII;
+    sub Gha IIMatra by GhaII;
+    sub uni0C19 IIMatra by NGaII;
+    sub Ca IIMatra by CaII;
+    sub Cha IIMatra by ChaII;
+    sub Ja IIMatra by JaII;
+    sub Jha IIMatra by JhaII;
+    sub Nya IIMatra by NyaII;
+    sub TTha IIMatra by TThaII;
+    sub DDa IIMatra by DDaII;
+    sub DDha IIMatra by DDhaII;
+    sub uni0C23 IIMatra by NNaII;
+    sub Ta IIMatra by TaII;
+    sub Tha IIMatra by ThaII;
+    sub Da IIMatra by DaII;
+    sub Dha IIMatra by DhaII;
+    sub Na IIMatra by NaII;
+    sub Pa IIMatra by PaII;
+    sub Pha IIMatra by PhaII;
+    sub Ba IIMatra by BaII;
+    sub Bha IIMatra by BhaII;
+    sub Ma IIMatra by MaII;
+    sub Ya IIMatra by YaII;
+    sub Ra IIMatra by RaII;
+    sub RRa IIMatra by RRaII;
+    sub La IIMatra by LaII;
+    sub LLa IIMatra by LLaII;
+    sub Va IIMatra by VaII;
+    sub Sha IIMatra by ShaII;
+    sub SSa IIMatra by SSaII;
+    sub Sa IIMatra by SaII;
+    sub Ha IIMatra by HaII;
+} LigatureSubstitution12;
+lookup LigatureSubstitution13 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 12 
+    sub Ka uni0C46 by KaE;
+    sub Kha uni0C46 by KhaE;
+    sub Ga uni0C46 by GaE;
+    sub Gha uni0C46 by GhaE;
+    sub uni0C19 uni0C46 by NGaE;
+    sub Ca uni0C46 by CaE;
+    sub Cha uni0C46 by ChaE;
+    sub Ja uni0C46 by JaE;
+    sub Jha uni0C46 by JhaE;
+    sub Nya uni0C46 by NyaE;
+    sub TTha uni0C46 by TThaE;
+    sub DDa uni0C46 by DDaE;
+    sub DDha uni0C46 by DDhaE;
+    sub uni0C23 uni0C46 by NNaE;
+    sub Ta uni0C46 by TaE;
+    sub Tha uni0C46 by ThaE;
+    sub Da uni0C46 by DaE;
+    sub Dha uni0C46 by DhaE;
+    sub Na uni0C46 by NaE;
+    sub Pa uni0C46 by PaE;
+    sub Pha uni0C46 by PhaE;
+    sub Ba uni0C46 by BaE;
+    sub Bha uni0C46 by BhaE;
+    sub Ma uni0C46 by MaE;
+    sub Ya uni0C46 by YaE;
+    sub Ra uni0C46 by RaE;
+    sub RRa uni0C46 by RRaE;
+    sub La uni0C46 by LaE;
+    sub LLa uni0C46 by LLaE;
+    sub Va uni0C46 by VaE;
+    sub Sha uni0C46 by ShaE;
+    sub SSa uni0C46 by SSaE;
+    sub Sa uni0C46 by SaE;
+    sub Ha uni0C46 by HaE;
+} LigatureSubstitution13;
+lookup LigatureSubstitution14 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 13 
+    sub Ka EEMatra by KaEE;
+    sub Kha EEMatra by KhaEE;
+    sub Ga EEMatra by GaEE;
+    sub Gha EEMatra by GhaEE;
+    sub uni0C19 EEMatra by NGaEE;
+    sub Ca EEMatra by CaEE;
+    sub Cha EEMatra by ChaEE;
+    sub Ja EEMatra by JaEE;
+    sub Jha EEMatra by JhaEE;
+    sub Nya EEMatra by NyaEE;
+    sub TTha EEMatra by TThaEE;
+    sub DDa EEMatra by DDaEE;
+    sub DDha EEMatra by DDhaEE;
+    sub uni0C23 EEMatra by NNaEE;
+    sub Ta EEMatra by TaEE;
+    sub Tha EEMatra by ThaEE;
+    sub Da EEMatra by DaEE;
+    sub Dha EEMatra by DhaEE;
+    sub Na EEMatra by NaEE;
+    sub Pa EEMatra by PaEE;
+    sub Pha EEMatra by PhaEE;
+    sub Ba EEMatra by BaEE;
+    sub Bha EEMatra by BhaEE;
+    sub Ma EEMatra by MaEE;
+    sub Ya EEMatra by YaEE;
+    sub Ra EEMatra by RaEE;
+    sub RRa EEMatra by RRaEE;
+    sub La EEMatra by LaEE;
+    sub LLa EEMatra by LLaEE;
+    sub Va EEMatra by VaEE;
+    sub Sha EEMatra by ShaEE;
+    sub SSa EEMatra by SSaEE;
+    sub Sa EEMatra by SaEE;
+    sub Ha EEMatra by HaEE;
+} LigatureSubstitution14;
+lookup LigatureSubstitution15 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 14 
+    sub Ka OMatra by KaO;
+    sub Kha OMatra by KhaO;
+    sub Ga OMatra by GaO;
+    sub Gha OMatra by GhaO;
+    sub uni0C19 OMatra by NGaO;
+    sub Ca OMatra by CaO;
+    sub Cha OMatra by ChaO;
+    sub Ja OMatra by JaO;
+    sub Jha OMatra by JhaO;
+    sub Nya OMatra by NyaO;
+    sub TTha OMatra by TThaO;
+    sub DDa OMatra by DDaO;
+    sub DDha OMatra by DDhaO;
+    sub uni0C23 OMatra by NNaO;
+    sub Ta OMatra by TaO;
+    sub Tha OMatra by ThaO;
+    sub Da OMatra by DaO;
+    sub Dha OMatra by DhaO;
+    sub Na OMatra by NaO;
+    sub Pa OMatra by PaO;
+    sub Pha OMatra by PhaO;
+    sub Ba OMatra by BaO;
+    sub Bha OMatra by BhaO;
+    sub Ma OMatra by MaO;
+    sub Ya OMatra by YaO;
+    sub Ra OMatra by RaO;
+    sub RRa OMatra by RRaO;
+    sub La OMatra by LaO;
+    sub LLa OMatra by LLaO;
+    sub Va OMatra by VaO;
+    sub Sha OMatra by ShaO;
+    sub SSa OMatra by SSaO;
+    sub Sa OMatra by SaO;
+    sub Ha OMatra by HaO;
+    sub CaNukta OMatra by CaNuktaO;
+    sub JaNukta OMatra by JaNuktaO;
+} LigatureSubstitution15;
+lookup LigatureSubstitution16 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 15 
+    sub Ka OOMatra by KaOO;
+    sub Kha OOMatra by KhaOO;
+    sub Ga OOMatra by GaOO;
+    sub Gha OOMatra by GhaOO;
+    sub uni0C19 OOMatra by NGaOO;
+    sub Ca OOMatra by CaOO;
+    sub Cha OOMatra by ChaOO;
+    sub Ja OOMatra by JaOO;
+    sub Jha OOMatra by JhaOO;
+    sub Nya OOMatra by NyaOO;
+    sub TTha OOMatra by TThaOO;
+    sub DDa OOMatra by DDaOO;
+    sub DDha OOMatra by DDhaOO;
+    sub uni0C23 OOMatra by NNaOO;
+    sub Ta OOMatra by TaOO;
+    sub Tha OOMatra by ThaOO;
+    sub Da OOMatra by DaOO;
+    sub Dha OOMatra by DhaOO;
+    sub Na OOMatra by NaOO;
+    sub Pa OOMatra by PaOO;
+    sub Pha OOMatra by PhaOO;
+    sub Ba OOMatra by BaOO;
+    sub Bha OOMatra by BhaOO;
+    sub Ma OOMatra by MaOO;
+    sub Ya OOMatra by YaOO;
+    sub Ra OOMatra by RaOO;
+    sub RRa OOMatra by RRaOO;
+    sub La OOMatra by LaOO;
+    sub LLa OOMatra by LLaOO;
+    sub Va OOMatra by VaOO;
+    sub Sha OOMatra by ShaOO;
+    sub SSa OOMatra by SSaOO;
+    sub Sa OOMatra by SaOO;
+    sub Ha OOMatra by HaOO;
+    sub CaNukta OOMatra by CaNuktaOO;
+    sub JaNukta OOMatra by JaNuktaOO;
+} LigatureSubstitution16;
+lookup LigatureSubstitution17 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 16 
+    sub Ka AuMatra by KaAU;
+    sub Kha AuMatra by KhaAU;
+    sub Ga AuMatra by GaAU;
+    sub Gha AuMatra by GhaAU;
+    sub uni0C19 AuMatra by NGaAU;
+    sub Ca AuMatra by CaAU;
+    sub Cha AuMatra by ChaAU;
+    sub Ja AuMatra by JaAU;
+    sub Jha AuMatra by JhaAU;
+    sub Nya AuMatra by NyaAU;
+    sub TTha AuMatra by TThaAU;
+    sub DDa AuMatra by DDaAU;
+    sub DDha AuMatra by DDhaAU;
+    sub uni0C23 AuMatra by NNaAU;
+    sub Ta AuMatra by TaAU;
+    sub Tha AuMatra by ThaAU;
+    sub Da AuMatra by DaAU;
+    sub Dha AuMatra by DhaAU;
+    sub Na AuMatra by NaAU;
+    sub Pa AuMatra by PaAU;
+    sub Pha AuMatra by PhaAU;
+    sub Ba AuMatra by BaAU;
+    sub Bha AuMatra by BhaAU;
+    sub Ma AuMatra by MaAU;
+    sub Ya AuMatra by YaAU;
+    sub Ra AuMatra by RaAU;
+    sub RRa AuMatra by RRaAU;
+    sub La AuMatra by LaAU;
+    sub LLa AuMatra by LLaAU;
+    sub Va AuMatra by VaAU;
+    sub Sha AuMatra by ShaAU;
+    sub SSa AuMatra by SSaAU;
+    sub Sa AuMatra by SaAU;
+    sub Ha AuMatra by HaAU;
+    sub CaNukta AuMatra by CaNuktaAU;
+    sub JaNukta AuMatra by JaNuktaAU;
+} LigatureSubstitution17;
+} abvs;
+
+feature blwf {
+    sub Halanth  Ka by Kaottu;
+    sub Halanth  Kha by KhaOttu;
+    sub Halanth  Ga by GaOttu;
+    sub Halanth  Gha by GhaOttu;
+    sub Halanth  uni0C19 by NgaOttu;
+    sub Halanth  Ca by CaOttu;
+    sub Halanth  Cha by ChaOttu;
+    sub Halanth  Ja by JaOttu;
+    sub Halanth  Jha by JhaOttu;
+    sub Halanth  Nya by NyaOttu;
+    sub Halanth  TTha by TTHaOttu;
+    sub Halanth  DDa by DDaOttu;
+    sub Halanth  DDha by DDhaOttu;
+    sub Halanth  uni0C23 by NNaOttu;
+    sub Halanth  Ta by TaOttu;
+    sub Halanth  Tha by ThaOttu;
+    sub Halanth  Da by DaOttu;
+    sub Halanth  Dha by DhaOttu;
+    sub Halanth  Na by NaOttu;
+    sub Halanth  Pa by PaOttu;
+    sub Halanth  Pha by PhaOttu;
+    sub Halanth  Ba by BaOttu;
+    sub Halanth  Bha by BhaOttu;
+    sub Halanth  Ma by MaOttu;
+    sub Halanth  Ya by YaOttu;
+    sub Halanth  Ra by RaOttuMiddle1;
+    sub Halanth  RRa by RRaOttu;
+    sub Halanth  La by LaOttu;
+    sub Halanth  LLa by LLaOttu;
+    sub Halanth  Va by VaOttu;
+    sub Halanth  Sha by ShaOttu;
+    sub Halanth  SSa by SSaOttu;
+    sub Halanth  Sa by SaOttu;
+    sub Halanth  Ha by HaOttu;
+    sub Halanth  CaNukta by CaOttu;
+    sub Halanth  JaNukta by JaOttu;
+    sub Halanth  Ksha by KshaOttu;
+} blwf;
+
+feature blws {
+lookup LigatureSubstitution4 {
+    lookupflag 0;
+    ;
+    # Original source: 3 
+    sub JaOttu NyaOttu by GyaOttu;
+    sub NgaOttu GaOttu by GNaOttu;
+    sub SSaOttu TTaOttu by SsaTtaOttu;
+    sub SSaOttu NNaOttu by SHNaOttu;
+    sub SSaOttu TTHaOttu by Multiply;
+    sub TTaOttu LaOttu by TLaOttu;
+    sub TaOttu RaOttuWide1 by TRaOttu;
+    sub TaOttu RaOttuMiddle1 by TRaOttu;
+    sub TaOttu RaOttuWide2 by TRaOttu;
+} LigatureSubstitution4;
+lookup ChainedContextualGSUB5 {
+    lookupflag 0;
+    ;
+    # Original source: 4 
+    sub tvam' lookup SingleSubstitution27 @class1;
+    sub tvam' lookup SingleSubstitution27 TaOttu;
+    sub tvam' lookup SingleSubstitution27 RaOttuMiddle1;
+} ChainedContextualGSUB5;
+lookup ChainedContextualGSUB6 {
+    lookupflag 0;
+    ;
+    # Original source: 5 
+    sub @class2 [RaOttuMiddle1 RaOttuWide1 RaOttuWide2]' lookup SingleSubstitution28;
+    sub KshNnaAI [RaOttuMiddle1 RaOttuWide1 RaOttuWide2]' lookup SingleSubstitution28;
+    sub LowItvam [RaOttuMiddle1 RaOttuWide1 RaOttuWide2]' lookup SingleSubstitution28;
+} ChainedContextualGSUB6;
+lookup ChainedContextualGSUB7 {
+    lookupflag 0;
+    ;
+    # Original source: 6 
+    sub LowItvam' lookup SingleSubstitution29 RaOttuRight;
+} ChainedContextualGSUB7;
+
+lookup LigatureSubstitution8 {
+    lookupflag 0;
+    ;
+    # Original source: 7 
+    sub LowItvam GyaOttu by ch772;
+    sub LowItvam SHNaOttu by ch771;
+    sub LowItvam GNaOttu by ch770;
+    sub LowItvam TLaOttu by ch769;
+    sub LowItvam TRaOttu by ch768;
+    sub LowItvam KshaOttu by ch767;
+    sub LowItvam HaOttu by ch766;
+    sub LowItvam SSaOttu by ch765;
+    sub LowItvam LaOttu by ch764;
+    sub LowItvam RRaOttu by ch763;
+    sub LowItvam DhaOttu by ch759;
+    sub LowItvam DaOttu by ch758;
+    sub LowItvam ThaOttu by ch757;
+    sub LowItvam NNaOttu by ch756;
+    sub LowItvam DDhaOttu by ch755;
+    sub LowItvam DDaOttu by ch754;
+    sub LowItvam TTHaOttu by ch753;
+    sub LowItvam TTaOttu by ch752;
+    sub LowItvam NyaOttu by ch751;
+    sub LowItvam JhaOttu by ch750;
+    sub LowItvam JaOttu by ch749;
+    sub LowItvam NgaOttu by ch748;
+    sub LowItvam GhaOttu by ch747;
+    sub LowItvam GaOttu by ch746;
+    sub LowItvam KhaOttu by ch745;
+    sub LowItvam TaOttu by Titvam;
+    sub LowItvam Multiply by SsaTthaOttu;
+    sub LowItvam SsaTtaOttu by DoubleDanda;
+} LigatureSubstitution8;
+lookup LigatureSubstitution9 {
+    lookupflag 0;
+    ;
+    # Original source: 8 
+    sub ch773 NNaOttu by ch774;
+    sub ch773 KshaOttu by KshaAI;
+} LigatureSubstitution9;
+
+sub @class3 RaOttuMiddle1' by RaOttuWide1;
+sub @class4 [RaOttuMiddle1 RaOttuWide1]' by RaOttuWide2;
+sub [JhaO YaO] [RaOttuMiddle1 RaOttuWide1 RaOttuWide2]' by RaOttuRight;
+} blws;
+
+feature haln {
+lookup LigatureSubstitution20 {
+    lookupflag MarkAttachmentType [Halanth];
+    ;
+    # Original source: 19 
+    sub Ka Halanth by KaHalanth;
+    sub Kha Halanth by KhaHalanth;
+    sub Ga Halanth by GaHalanth;
+    sub Gha Halanth by GhaHalanth;
+    sub uni0C19 Halanth by NGaHalanth;
+    sub Ca Halanth by CaHalanth;
+    sub Cha Halanth by ChaHalanth;
+    sub Ja Halanth by JaHalanth;
+    sub Jha Halanth by JhaHalanth;
+    sub Nya Halanth by NyaHalanth;
+    sub TTha Halanth by TThaHalanth;
+    sub DDa Halanth by DDaHalanth;
+    sub DDha Halanth by DDhaHalanth;
+    sub uni0C23 Halanth by NNaHalanth;
+    sub Ta Halanth by TaHalanth;
+    sub Tha Halanth by ThaHalanth;
+    sub Da Halanth by DaHalanth;
+    sub Dha Halanth by DhaHalanth;
+    sub Na Halanth by NaHalanth;
+    sub Pa Halanth by PaHalanth;
+    sub Pha Halanth by PhaHalanth;
+    sub Ba Halanth by BaHalanth;
+    sub Bha Halanth by BhaHalanth;
+    sub Ma Halanth by MaHalanth;
+    sub Ya Halanth by YaHalanth;
+    sub Ra Halanth by RaHalanth;
+    sub RRa Halanth by RRaHalanth;
+    sub La Halanth by LaHalanth;
+    sub LLa Halanth by LLaHalanth;
+    sub Va Halanth by VaHalanth;
+    sub Sha Halanth by ShaHalanth;
+    sub SSa Halanth by SSaHalanth;
+    sub Sa Halanth by SaHalanth;
+    sub Ha Halanth by HaHalanth;
+    sub CaNukta Halanth by CaNuktaHalanth;
+    sub JaNukta Halanth by JaNuktaHalanth;
+    sub Ksha Halanth by KshaHalanth;
+} LigatureSubstitution20;
+} haln;
+
+feature psts {
+lookup LigatureSubstitution18 {
+    lookupflag MarkAttachmentType @markAttachmentSet1;
+    ;
+    # Original source: 17 
+    sub Ka UUMatra by KaUU;
+    sub Ka UMatra by KaU;
+    sub Kha UUMatra by KhaUU;
+    sub Kha UMatra by KhaU;
+    sub Ga UUMatra by GaUU;
+    sub Ga UMatra by GaU;
+    sub Gha UUMatra by GhaUU;
+    sub Gha UMatra by GhaU;
+    sub uni0C19 UUMatra by NGaUU;
+    sub uni0C19 UMatra by NGaU;
+    sub Ca UMatra by CaU;
+    sub Ca UUMatra by CaUU;
+    sub Cha UUMatra by ChaUU;
+    sub Cha UMatra by ChaU;
+    sub Ja UMatra by JaU;
+    sub Ja UUMatra by JaUU;
+    sub Jha UUMatra by JhaUU;
+    sub Jha UMatra by JhaU;
+    sub Nya UUMatra by NyaUU;
+    sub Nya UMatra by NyaU;
+    sub TTha UUMatra by TThaUU;
+    sub TTha UMatra by TThaU;
+    sub DDa UUMatra by DDaUU;
+    sub DDa UMatra by DDaU;
+    sub DDha UUMatra by DDhaUU;
+    sub DDha UMatra by DDhaU;
+    sub uni0C23 UUMatra by NNaUU;
+    sub uni0C23 UMatra by NNaU;
+    sub Ta UUMatra by TaUU;
+    sub Ta UMatra by TaU;
+    sub Tha UUMatra by ThaUU;
+    sub Tha UMatra by ThaU;
+    sub Da UUMatra by DaUU;
+    sub Da UMatra by DaU;
+    sub Dha UUMatra by DhaUU;
+    sub Dha UMatra by DhaU;
+    sub Na UUMatra by NaUU;
+    sub Na UMatra by NaU;
+    sub Pa UUMatra by PaUU;
+    sub Pa UMatra by PaU;
+    sub Pha UUMatra by PhaUU;
+    sub Pha UMatra by PhaU;
+    sub Ba UUMatra by BaUU;
+    sub Ba UMatra by BaU;
+    sub Bha UUMatra by BhaUU;
+    sub Bha UMatra by BhaU;
+    sub Ma UUMatra by MaUU;
+    sub Ma UMatra by MaU;
+    sub Ya UUMatra by YaUU;
+    sub Ya UMatra by YaU;
+    sub Ra UUMatra by RaUU;
+    sub Ra UMatra by RaU;
+    sub RRa UUMatra by RRaUU;
+    sub RRa UMatra by RRaU;
+    sub La UUMatra by LaUU;
+    sub La UMatra by LaU;
+    sub LLa UUMatra by LLaUU;
+    sub LLa UMatra by LLaU;
+    sub Va UUMatra by VaUU;
+    sub Va UMatra by VaU;
+    sub Sha UUMatra by ShaUU;
+    sub Sha UMatra by ShaU;
+    sub SSa UUMatra by SSaUU;
+    sub SSa UMatra by SSaU;
+    sub Sa UUMatra by SaUU;
+    sub Sa UMatra by SaU;
+    sub Ha UUMatra by HaUU;
+    sub Ha UMatra by HaU;
+    sub CaNukta UUMatra by CaNuktaUU;
+    sub CaNukta UMatra by CaNuktaU;
+    sub JaNukta UUMatra by JaNuktaUU;
+    sub JaNukta UMatra by JaNuktaU;
+} LigatureSubstitution18;
+lookup LigatureSubstitution19 {
+    lookupflag 0;
+    ;
+    # Original source: 18 
+    sub PaU PaOttu by ch744;
+} LigatureSubstitution19;
+
+
+
+lookup ChainedContextualGSUB24 {
+    lookupflag 0;
+    ;
+    # Original source: 23 
+    sub @class5 RaOttuMiddle1' lookup SingleSubstitution33;
+} ChainedContextualGSUB24;
+lookup ChainedContextualGSUB25 {
+    lookupflag 0;
+    ;
+    # Original source: 24 
+    sub GhaU [RaOttuMiddle1 RaOttuRight RaOttuWide1]' lookup SingleSubstitution34;
+    sub GhaUU [RaOttuMiddle1 RaOttuRight RaOttuWide1]' lookup SingleSubstitution34;
+    sub NyaU [RaOttuMiddle1 RaOttuRight RaOttuWide1]' lookup SingleSubstitution34;
+    sub NyaUU [RaOttuMiddle1 RaOttuRight RaOttuWide1]' lookup SingleSubstitution34;
+    sub MaU [RaOttuMiddle1 RaOttuRight RaOttuWide1]' lookup SingleSubstitution34;
+    sub MaUU [RaOttuMiddle1 RaOttuRight RaOttuWide1]' lookup SingleSubstitution34;
+} ChainedContextualGSUB25;
+lookup ChainedContextualGSUB26 {
+    lookupflag 0;
+    ;
+    # Original source: 25 
+    sub [JhaU JhaUU YaU YaUU] [RaOttuMiddle1 RaOttuWide1 RaOttuWide2]' lookup SingleSubstitution35;
+} ChainedContextualGSUB26;
+} psts;
+
+feature blwm {
+# Automatic Code Start
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup PairPositioning3;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS6;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS7;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS8;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS9;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS10;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS11;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS12;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS13;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS14;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS15;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS16;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup ChainedContextualGPOS17;
+
+# [('tel2', 'dflt')]
+    script tel2;
+    language dflt;
+    lookup PairPositioning18;
+} blwm;
+

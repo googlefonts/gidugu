@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaOttuWide2" format="2">
+  <advance width="26"/>
+  <anchor x="-72" y="45" name="_Anchor22"/>
+  <outline>
+    <contour>
+      <point x="497" y="-33" type="line"/>
+      <point x="499" y="-47" type="line" smooth="yes"/>
+      <point x="500" y="-53"/>
+      <point x="500" y="-57"/>
+      <point x="500" y="-59" type="curve" smooth="yes"/>
+      <point x="500" y="-94"/>
+      <point x="484" y="-125"/>
+      <point x="451" y="-152" type="curve" smooth="yes"/>
+      <point x="415" y="-181"/>
+      <point x="372" y="-195"/>
+      <point x="321" y="-195" type="curve" smooth="yes"/>
+      <point x="266" y="-195"/>
+      <point x="223" y="-182"/>
+      <point x="192" y="-157" type="curve" smooth="yes"/>
+      <point x="159" y="-130"/>
+      <point x="143" y="-97"/>
+      <point x="143" y="-58" type="curve" smooth="yes"/>
+      <point x="143" y="-49"/>
+      <point x="144" y="-39"/>
+      <point x="145" y="-28" type="curve"/>
+      <point x="29" y="-28" type="line"/>
+      <point x="32" y="-102"/>
+      <point x="57" y="-156"/>
+      <point x="105" y="-190" type="curve" smooth="yes"/>
+      <point x="156" y="-227"/>
+      <point x="228" y="-245"/>
+      <point x="321" y="-245" type="curve" smooth="yes"/>
+      <point x="412" y="-245"/>
+      <point x="481" y="-228"/>
+      <point x="529" y="-194" type="curve" smooth="yes"/>
+      <point x="580" y="-159"/>
+      <point x="607" y="-105"/>
+      <point x="612" y="-33" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-02 14:07:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

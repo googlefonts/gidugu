@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="653"/>
+  <unicode hex="00BD"/>
+  <note>
+onehalf
+</note>
+  <anchor x="-43" y="25" name="_Anchor5"/>
+  <outline>
+    <contour>
+      <point x="246" y="242" type="line"/>
+      <point x="246" y="211" type="line"/>
+      <point x="58" y="211" type="line"/>
+      <point x="58" y="242" type="line"/>
+      <point x="113" y="242" type="line"/>
+      <point x="113" y="406" type="line"/>
+      <point x="57" y="404" type="line"/>
+      <point x="57" y="434" type="line"/>
+      <point x="93" y="437"/>
+      <point x="128" y="447"/>
+      <point x="162" y="464" type="curve"/>
+      <point x="195" y="464" type="line"/>
+      <point x="195" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="371" y="460" type="line"/>
+      <point x="417" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="612" y="62" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="405" y="51" type="line"/>
+      <point x="494" y="114" type="line" smooth="yes"/>
+      <point x="556" y="160"/>
+      <point x="528" y="225"/>
+      <point x="508" y="225" type="curve" smooth="yes"/>
+      <point x="498" y="225"/>
+      <point x="491" y="220"/>
+      <point x="487" y="211" type="curve" smooth="yes"/>
+      <point x="482" y="201"/>
+      <point x="479" y="184"/>
+      <point x="478" y="161" type="curve"/>
+      <point x="407" y="171" type="line"/>
+      <point x="411" y="231"/>
+      <point x="443" y="257"/>
+      <point x="508" y="257" type="curve" smooth="yes"/>
+      <point x="573" y="257"/>
+      <point x="613" y="235"/>
+      <point x="613" y="184" type="curve" smooth="yes"/>
+      <point x="613" y="159"/>
+      <point x="598" y="135"/>
+      <point x="569" y="114" type="curve" smooth="yes"/>
+      <point x="493" y="62" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 89 values pushed */
+4 1 1 0 24 23 2 10 3 32 1 6 10 3 74 0 1 0 7 0 1 7 112 0 7 0 8 3 7 8 99 11 4 2 2 0 3 10 2 3 98 5 1 0 0 16 75 12 1 10 10 6 89 9 1 6 6 17 6 76 16 16 0 0 16 35 16 35 34 33 28 26 21 20 15 14 13 12 0 11 0 11 17 17 19 17 13 6 24
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-06 10:08:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>
