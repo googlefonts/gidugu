@@ -550,7 +550,7 @@ lookup LigatureSubstitution14 {
     sub Ja EEMatra by JaEE;
     sub Jha EEMatra by JhaEE;
     sub Nya EEMatra by NyaEE;
-	sub TTa EEMatra by TTaE;
+	sub TTa EEMatra by TTaEE;
     sub TTha EEMatra by TThaEE;
     sub DDa EEMatra by DDaEE;
     sub DDha EEMatra by DDhaEE;

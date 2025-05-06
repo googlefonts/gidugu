@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>596</integer>
     <key>copyright</key>
-    <string>This font is copyright of SiliconAndhra, USA.</string>
+    <string>Copyright 2025 The Gidugu Project Authors (https://github.com/googlefonts/gidugu)</string>
     <key>descender</key>
     <integer>-790</integer>
     <key>familyName</key>
@@ -48,8 +48,6 @@
     <string></string>
     <key>openTypeNameUniqueID</key>
     <string></string>
-    <key>openTypeNameVersion</key>
-    <string>Version 0.30 October 28, 2012</string>
     <key>openTypeOS2FamilyClass</key>
     <array>
       <integer>0</integer>
@@ -79,11 +77,11 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>875</integer>
+    <integer>1294</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-250</integer>
+    <integer>-790</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>20</integer>
+    <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>pyrs</string>
     <key>openTypeOS2WeightClass</key>
@@ -91,9 +89,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>900</integer>
+    <integer>1294</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>750</integer>
+    <integer>790</integer>
     <key>postscriptBlueFuzz</key>
     <integer>1</integer>
     <key>postscriptBlueScale</key>
@@ -133,7 +131,7 @@
     <key>unitsPerEm</key>
     <integer>1124</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>

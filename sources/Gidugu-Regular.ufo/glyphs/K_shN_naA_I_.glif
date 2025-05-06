@@ -3,17 +3,11 @@
   <advance width="233"/>
   <unicode hex="200C"/>
   <outline>
-    <contour>
-      <point x="238" y="-11" type="line"/>
-      <point x="238" y="668" type="line"/>
-      <point x="177" y="668" type="line"/>
-      <point x="177" y="-11" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-02 14:07:46 +0000</string>
+      <string>2025-05-06 11:22:43 +0000</string>
     </dict>
   </lib>
 </glyph>

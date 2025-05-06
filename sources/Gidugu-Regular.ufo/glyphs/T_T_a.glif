@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="TTa" format="2">
   <advance width="690"/>
+  <unicode hex="0C1F"/>
   <anchor x="0" y="0" name="Anchor5"/>
   <anchor x="0" y="0" name="Anchor24"/>
   <outline>
@@ -154,7 +155,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-06 11:04:13 +0000</string>
+      <string>2025-05-06 11:09:10 +0000</string>
     </dict>
   </lib>
 </glyph>
