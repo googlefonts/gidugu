@@ -5,7 +5,7 @@
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
       <string>23</string>
-      <string>/TaOttu</string>
+      <string>/TTaU/TTa</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3310</string>
@@ -2024,6 +2024,7 @@
       <string>partialdiff</string>
       <string>perthousand</string>
       <string>lozenge</string>
+      <string>TTa</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
