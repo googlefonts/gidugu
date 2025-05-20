@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nukta" format="2">
   <advance width="0"/>
-  <unicode hex="093C"/>
+  <unicode hex="0C3C"/>
   <outline>
     <contour>
       <point x="570" y="1025" type="curve" smooth="yes"/>
@@ -62,7 +62,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-02 14:07:46 +0000</string>
+      <string>2025-05-20 09:31:52 +0000</string>
     </dict>
   </lib>
 </glyph>

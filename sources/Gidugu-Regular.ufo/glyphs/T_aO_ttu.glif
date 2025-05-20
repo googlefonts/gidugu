@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="TaOttu" format="2">
   <advance width="47"/>
+  <anchor x="-1" y="-393" name="Anchor5"/>
+  <anchor x="159" y="-18" name="_Anchor5"/>
   <outline>
     <contour>
       <point x="480" y="-225" type="curve" smooth="yes"/>
@@ -61,7 +63,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-06 10:15:05 +0000</string>
+      <string>2025-05-20 10:01:13 +0000</string>
     </dict>
   </lib>
 </glyph>

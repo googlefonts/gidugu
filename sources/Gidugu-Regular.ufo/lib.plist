@@ -6,6 +6,8 @@
     <array>
       <string>23</string>
       <string>/TTaU −+</string>
+      <string>8₈</string>
+      <string>/TaOttu/GhaOttu</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3310</string>
@@ -1980,6 +1982,7 @@
       <string>f_f_l</string>
       <string>fi</string>
       <string>fl</string>
+      <string>TTa</string>
       <string>three.dnom</string>
       <string>three.numr</string>
       <string>fraction</string>
@@ -2024,7 +2027,6 @@
       <string>partialdiff</string>
       <string>perthousand</string>
       <string>lozenge</string>
-      <string>TTa</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -4336,5 +4338,9 @@
       <key>twosuperior</key>
       <string>uni00B2</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>uni0950</string>
+    </array>
   </dict>
 </plist>
