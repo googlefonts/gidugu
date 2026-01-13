@@ -91,7 +91,7 @@ deprecated==1.2.18
     # via pygithub
 diffenator2==0.4.5
     # via gftools
-filelock==3.18.0
+filelock==3.20.3
     # via youseedee
 font-v==2.1.0
     # via gftools
